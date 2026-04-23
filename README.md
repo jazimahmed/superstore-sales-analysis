@@ -6,7 +6,7 @@ A beginner data analytics project exploring **US retail sales trends, profit mar
 
 ## 📸 Dashboard Preview
 
-![Superstore Sales Dashboard](dashboard_preview.png)
+![Superstore Sales Dashboard](/powerbi%20visualization%20picture.png)
 
 > Power BI dashboard showing sales by category, profit trends over time, regional performance, and discount vs profit analysis.
 
